@@ -10,13 +10,11 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Link to deployed website: https://alexisbenavidez99.github.io/Horiseon-HW2.0/
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![Screenshot of deployed website](./Develop/assets/images/Screen%20Shot%202022-10-15%20at%206.54.18%20PM.png)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![Screenshot of deployed website](./Develop/assets/images/Screen%20Shot%202022-10-15%20at%206.54.28%20PM.png)
 
 ## License
 
